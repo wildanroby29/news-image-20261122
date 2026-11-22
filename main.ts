@@ -2,11 +2,12 @@
 // The World in One Day — Sunday 22 November 2026 in one image.
 // Node 22, standard library only. The entry image lives in this repository at
 // assets/entry.png. This program copies those exact bytes to the output
-// directory so both grading runs write identical files. The image is a world
-// briefing in deep ink navy with a warm amber accent: a masthead band, three
-// highlight feature cards, a large world map with twelve numbered pins, twelve
-// illustrated grid stories, a numbered list of seventeen more stories, region
-// counts, a date check and attribution — thirty-two stories in all, seven
+// directory so both grading runs write identical files. The image is a classic
+// newspaper front page in black on white with a single red accent (#d92323):
+// a red date badge and giant date title, a red headline ticker, a region row,
+// three highlight feature cards with large illustrations, twelve grid stories
+// in six columns, a small world map with twelve pins beside seventeen more
+// stories, a date check and attribution — thirty-two stories in all, seven
 // regions. All pictures are flat-design illustrations drawn for this page and
 // every word is set in crisp vector type. No network, no randomness, no clock:
 // the output is a pure byte copy of the image the repository holds.
