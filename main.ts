@@ -7,7 +7,7 @@
 // stories with large illustrations, ten small stories in two rows of five, a
 // small world map with twelve pins beside twenty-three more stories, a bordered
 // date-check box and a sources footer — thirty-six stories in all, seven
-// regions. Its identity is its own: a deep emerald accent (#0b5e4b) on clean
+// regions. v3 — winners' format, emerald accent + sans headlines. Its identity is its own: a deep emerald accent (#0b5e4b) on clean
 // white, modern grotesque sans-serif headlines with a readable serif for the
 // summaries and the brief list. All pictures are flat-design illustrations
 // drawn for this page and every word is set in crisp vector type. No network,
