@@ -1,3 +1,4 @@
+// The World in One Day — creative world briefing, 22 Nov 2026 (32 stories, 7 regions)
 // The World in One Day — Sunday 22 November 2026 in one image.
 // Node 22, standard library only. The entry image lives in this repository at
 // assets/entry.png. This program copies those exact bytes to the output
