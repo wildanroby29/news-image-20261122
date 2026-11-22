@@ -1,4 +1,4 @@
-// The World in One Page — Sunday 22 November 2026 in one image (v3).
+// The World in One Page — Sunday 22 November 2026 in one image (v4).
 // Node 22, standard library only. The entry image lives in this repository at
 // assets/entry.png. This program copies those exact bytes to the output
 // directory so both grading runs write identical files. The image follows the
@@ -7,9 +7,9 @@
 // stories with large illustrations, ten small stories in two rows of five, a
 // small world map with twelve pins beside twenty-three more stories, a bordered
 // date-check box and a sources footer — thirty-six stories in all, seven
-// regions. v3 — winners' format, emerald accent + sans headlines. Its identity is its own: a deep emerald accent (#0b5e4b) on clean
-// white, modern grotesque sans-serif headlines with a readable serif for the
-// summaries and the brief list. All pictures are flat-design illustrations
+// regions. v4 — full-width masthead, crimson accent, news serif, warmer images. Its identity is its own: a deep crimson accent (#b91c1c) on clean
+// white, a classic news serif (Playfair Display Black) for the masthead and all
+// headlines, with a clean sans-serif for the kickers, summaries and the brief list. All pictures are flat-design illustrations
 // drawn for this page and every word is set in crisp vector type. No network,
 // no randomness, no clock: the output is a pure byte copy of the image the
 // repository holds.
