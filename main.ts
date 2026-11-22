@@ -7,9 +7,9 @@
 // stories with large illustrations, ten small stories in two rows of five, a
 // small world map with twelve pins beside twenty-three more stories, a bordered
 // date-check box and a sources footer — thirty-six stories in all, seven
-// regions. v4 — full-width masthead, crimson accent, news serif, warmer images. Its identity is its own: a deep crimson accent (#b91c1c) on clean
-// white, a classic news serif (Playfair Display Black) for the masthead and all
-// headlines, with a clean sans-serif for the kickers, summaries and the brief list. All pictures are flat-design illustrations
+// regions. v5 — back to the v3 base, full-width masthead, teal-balanced palette, semi-bold brief titles. Its identity is its own: a deep teal accent (#0f766e) on clean
+// white, bridging the blue thumbnails and the green, with Noto Sans Display Black for the masthead and all
+// headlines, Noto Serif for the decks, sub-deck and the brief list (brief titles in semi-bold 600). All pictures are flat-design illustrations
 // drawn for this page and every word is set in crisp vector type. No network,
 // no randomness, no clock: the output is a pure byte copy of the image the
 // repository holds.
